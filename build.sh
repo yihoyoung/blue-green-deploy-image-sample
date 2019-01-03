@@ -1,3 +1,4 @@
+mvn clean package
 cp Dockerfile target/
 
 cd target
